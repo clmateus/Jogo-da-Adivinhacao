@@ -20,6 +20,8 @@
 
 Um jogo feito em HTML, CSS e Javascript onde o objetivo é adivinhar um número aleatório.
 
+<img src="./images/desktop.png" />
+
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
 * CSS responsivo
