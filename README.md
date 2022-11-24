@@ -29,6 +29,7 @@ Neste projeto pude desenvolver algumas habilidades como:
 * Document Object Model (DOM)
 * Eventos
 * Funções
+* Manipulação de classes
 * Tratamento de bugs
 
 Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso melhorar! 
