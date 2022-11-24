@@ -24,6 +24,7 @@ function handleTryClick(e){
   }
 
   if(Number(inputNumber.value) < 0 || Number(inputNumber.value) > 10){
+    inputNumber.value = ''
     return paragraph.innerText = `O número precisa ser entre 0 e 10`
   } else {
     if(Number(inputNumber.value) == randomNum){
