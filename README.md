@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/clmateus/Jogo-da-Adivinhacao">
-    <img src="./images/crystal-ball.png" alt="Logo" />
+    <img src="./images/crystal-ball.png" alt="Logo" width="200" height="200"/>
   </a>
 
   <h3 align="center">Jogo da Adivinhação</h3>
